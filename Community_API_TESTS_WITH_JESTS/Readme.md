@@ -56,6 +56,14 @@ we are testing the API endpoints with supertest in the jest environment.
 ```
 ### Run the tests file.
 
+Drop the mongo database every time, before you run tests using jest.
+```
+use communityForum 
+
+dropDatabase();
+```
+
+
 Hurray! you are almost there, use this command to see the magic.
 ```JSON
 npm run test
