@@ -339,7 +339,7 @@ Authentication required, will return Specific Question created by followed users
 Example request body:
 ```JSON
 {
-  description: 'hello pen please'
+  "description": "hello pen please"
 }
 ```
 
@@ -347,7 +347,7 @@ Authentication required, will return Specific Updated Question created by follow
 
 ```JSON
 {
-	"_id" : ObjectId("6145c4ddf5517c73a504625c"),
+	"_id" : "6145c4ddf5517c73a504625c",
 	"upvoteCount" : 0,
 	"upvotedBy" : [ ],
 	"comments" : [ ],
@@ -357,9 +357,9 @@ Authentication required, will return Specific Updated Question created by follow
 	"answers" : [ ],
 	"title" : "how to train a dragon3",
 	"description" : "hello pen please",
-	"author" : ObjectId("6145b3a8f3b91a711a2f7757"),
-	"createdAt" : ISODate("2021-09-18T10:52:13.772Z"),
-	"updatedAt" : ISODate("2021-09-18T12:47:40.638Z"),
+	"author" : "6145b3a8f3b91a711a2f7757",
+	"createdAt" : "2021-09-18T10:52:13.772Z",
+	"updatedAt" : "2021-09-18T12:47:40.638Z",
 	"slug" : "how-to-train-a-dragon",
 	"__v" : 0
 }
