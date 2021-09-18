@@ -1,4 +1,4 @@
-# RealWorld API Spec
+# Community API Spec
 
 ## Running API tests locally
 
