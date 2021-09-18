@@ -1,4 +1,4 @@
-### CommunityAPI
+### Community API
 This project is about community REST API, where the people can register and login, Any user can be logged in through passing JWT token while authentication.They can interact with each other through questions & Answers just like quora.com. All users can view the other users answers as well as questions. Any logged in user can comment , upvote and remove upvote on questions as well as answers. One can follow and unfollow the other users. Authorized users can access profiles,category tags on all questons and can delete the questions and answers as well as comments.
 
 ### Testing Community API with SUPERTEST and JEST
