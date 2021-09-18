@@ -93,3 +93,6 @@ Snapshots:   0 total
 Time:        1.595 s, estimated 2 s
 Ran all test suites.
 ```
+### Video of executing tests successfully
+
+https://github.com/palacharlanarendra/CommunityAPI/blob/main/Community_API_TESTS_WITH_JESTS/executing%20tests%20demo%20successfully.mp4
