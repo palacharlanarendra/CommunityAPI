@@ -52,7 +52,7 @@ Example request body:
 
 No authentication required, returns a User (for authentication)
 
-```JSON
+```JS
 {
     "user": {
         "email": "qwerty900@gmail.com",
